@@ -1,0 +1,199 @@
+-<!doctype html>
+ -<html>
+
+  -<head>
+    -<meta>
+    -<meta>
+    -<title>ocho</title>
+    -<link>
+    -<link>
+  -</head>
+
+  -<body>
+    -<nav>
+        -<div>
+            -<a>Titulo</a>
+            -<button>
+                -<span></span>
+            -</button>
+            -<div>
+                -<li>
+                    -<a>Inicio</a>
+                -</li>
+                -<li>
+                    -<a>Contacto</a>
+                -</li>
+                -<li>
+                    -<a>Acerca de</a>
+                -</li>
+                -<li>
+                    -<a>
+                        -Secciones
+                    -</a>
+                    -<ul>
+                        -<li><a>Seccion 1</a></li>
+                        -<li>
+                            -<hr>
+                        -</li>
+                        -<li><a>Seccion 2</a></li>
+                        -<li>
+                            -<hr>
+                        -</li>
+                        -<li><a>Seccion 3</a></li>
+                    -</ul>
+                -</li>
+                -</ul>
+                -<form>
+                    -<input>
+                    -<button><i></i></button>
+                -</form>
+            -</div>
+        -</div>
+    -</nav>
+    -<div>
+        -<h2>Galería de imágenes</h2>
+        -<h3><span>total: 6</span></h3>
+        -<div>
+            -<div>
+                -<h5>Imagen <span>1</span></h5>
+                -<div>
+                    -<img>
+                -</div>
+            -</div>
+            -<div">
+                -<h5>Imagen <span>2</span></h5>
+                -<div>
+                    -<img>
+                -</div>
+        -</div>
+
+        -<div>
+            -<h5>Imagen <span>3</span></h5>
+            -<div>
+                -<img>
+            -</div>
+        -</div>
+    -</div>
+    -<div>
+        -<div>
+            -<h5>Imagen <span>4</span></h5>
+            -<div>
+                -<img>
+            -</div>
+        -</div>
+        -<div>
+            -<h5>Imagen <span>5</span></h5>
+            -<div>
+                -<img>
+            -</div>
+        -</div>
+        -<div>
+            -<h5>Imagen <span>6</span></h5>
+            -<div>
+                -<img>
+            -</div>
+        -</div>
+    -</div>
+    -</div>
+
+    -<div>
+        -<div>
+            -<div>
+                -<div>
+                    -<h1>Primera imagen</h1>
+                -</div>
+                -<div>
+                    -<img>
+                -</div>
+                -<div>
+                    -<button>Close</button>
+                -</div>
+            -</div>
+        -</div>
+    -</div>
+
+    -<div>
+        -<div>
+            -<div>
+                -<div>
+                    -<h1>Segunda imagen</h1>
+                -</div>
+                -<div>
+                    -<img>
+                -</div>
+                -<div>
+                    -<button>Close</button>
+                -</div>
+            -</div>
+        -</div>
+    -</div>
+
+    -<div>
+        -<div>
+            -<div>
+                -<div>
+                   -<h1>Tercera imagen</h1>
+                -</div>
+                -<div>
+                    -<img>
+                -</div>
+                -<div>
+                    -<button>Close</button>
+                -</div>
+            -</div>
+        -</div>
+    -</div>
+
+    -<div>
+        -<div>
+            -<div>
+                -<div>
+                    -<h1>Cuarta imagen</h1>
+                -</div>
+                -<div>
+                    -<img>
+                -</div>
+                -<div>
+                    -<button>
+                -</div>
+            -</div>
+        -</div>
+    -</div>
+
+    -<div>
+        -<div>
+            -<div>
+                -<div>
+                    -<h1>Quinta imagen</h1>
+                -</div>
+                -<div>
+                    -<img>
+                -</div>
+                -<div>
+                    -<button>
+                -</div>
+            -</div>
+        -</div>
+    -</div>
+
+    -<div>
+        -<div>
+            -<div>
+                -<div>
+                    -<h1>Sexta imagen</h1>
+                -</div>
+                -<div>
+                    -<img>
+                -</div>
+                -<div>
+                    -<button>
+                -</div>
+            -</div>
+        -</div>
+    -</div>
+
+    -<script></script>
+    -<script></script>
+  -</body>
+
+ -</html>

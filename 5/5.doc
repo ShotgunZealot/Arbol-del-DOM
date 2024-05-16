@@ -1,0 +1,112 @@
+-<!doctype html>
+ -<html lang="es">
+
+  -<head>
+    -<meta>
+    -<meta>
+    -<title>cinco</title>
+    -<link>
+    -<link>
+  -</head>
+
+  -<body>
+    -<nav>
+        -<div>
+            -<a>Nombre</a>
+            -<button>
+                -<span></span>
+            -</button>
+            -<div>
+                -<ul>
+                    -<li>
+                        -<a>Inicio</a>
+                    -</li>
+                    -<li>
+                        -<a>Contacto</a>
+                    -</li>
+                    -<li>
+                        -<a>Acerca de</a>
+                    -</li>
+                    -<li>
+                        -<a>
+                            -Secciones
+                        -</a>
+                        -<ul>
+                            -<li><a>Seccion 1</a></li>
+                            -<li>
+                                -<hr>
+                            -</li>
+                            -<li><a>Seccion 2</a></li>
+                            -<li>
+                                -<hr>
+                            -</li>
+                            -<li><a>Seccion 3</a></li>
+                        -</ul>
+                    -</li>
+                -</ul>
+                -<form>
+                    -<input>
+                    -<button>
+                        -<i></i>
+                    -</button>
+                -</form>
+            -</div>
+        -</div>
+    -</nav>
+    -<div>
+        -<div>
+            -<h1>Titulo</h1>
+            -<div>
+                -<h1>Subtitulo 1</h1>
+                -<p>Contenido 1...</p>
+            -</div>
+            -<div>
+                -<h1>Subtitulo 2</h1>
+                -<p>Contenido 2...</p>
+            -</div>
+            -<div>
+                -<h1>Subtitulo 3</h1>
+                -<p>Contenido 3...</p>
+            -</div>
+        -</div>
+        -<div>
+            -<div>
+                -<h2>Deja tu comentario</h2>
+                -<div>
+                    -<label>Correo electronico</label>
+                    -<input>
+                -</div>
+                -<div>
+                    -<label>Mnesaje</label>
+                    -<textarea></textarea>
+                -</div>
+                -<div></div>
+                -<button>Enviar</button>
+            -</div>
+            -<div>
+                -<h2>Descarga nuestra app!</h2>
+                -<p>Descripcion de la app...</p>
+                -<div>
+                    -Ha ocurrido un error al cargar el archivo
+                -</div>
+            -</div>
+            -<div>
+                -<h1>Comentarios de usuarios</h1>
+                -<div>
+                    -Puede haber contenido explicito en los comentarios
+                -</div>
+                -<div>
+                    -pedrocraft@gmail.com
+                    -<p>Observen esto</p>
+                    -<img>
+                -</div>
+            -</div>
+        -</div>
+    -</div>
+    -<script></script>
+    -<script></script>
+    -<script>
+    -</script>
+  -</body>
+
+ -</html>

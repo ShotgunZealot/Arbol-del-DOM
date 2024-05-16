@@ -1,0 +1,96 @@
+-<!doctype html>
+ -<html>
+
+  -<head>
+    -<meta>
+    -<meta>
+    -<title>nueve</title>
+    -<link>
+    -<link>
+  -</head>
+
+  -<body>
+    -<nav>
+        -<div>
+            -<a>Titulo</a>
+            -<button>
+                -<span></span>
+            -</button>
+            -<div>
+                -<ul>
+                    -<li>
+                        -<a>Inicio</a>
+                    -</li>
+                    -<li>
+                        -<a>Contacto</a>
+                    -</li>
+                    -<li>
+                        -<a>Acerca de</a>
+                    -</li>
+                    -<li>
+                        -<a>
+                            -Secciones
+                        -</a>
+                        -<ul>
+                            -<li><a>Seccion 1</a></li>
+                            -<li>
+                                -<hr>
+                            -</li>
+                            -<li><a>Seccion 2</a></li>
+                            -<li>
+                                -<hr>
+                            -</li>
+                            -<li><a>Seccion 3</a></li>
+                        -</ul>
+                    -</li>
+                -</ul>
+                -<form>
+                    -<input>
+                    -<button><i></i></button>
+                -</form>
+            -</div>
+        -</div>
+    -</nav>
+    -<div>
+        -<h1>Tarjetas</h1>
+        -<div>
+            -<div>
+                -<div>
+                    -<img>
+                    -<div>
+                        -<h5>Venta de peluches anime</h5>
+                        -<p>Estamos haciendo un evento de venta y compra de peluches estilo anime el
+                            -proximo 4 de marzo.</p>
+                        -<a>Mas informacion</a>
+                    -</div>
+                -</div>
+            -</div>
+            -<div>
+                -<div>
+                    -<img>
+                    -<div>
+                        -<h5>Concierto de Soda Stereo</h5>
+                        -<p>Conoce a la popular banda de rock español en su nuevo concierto el 9 de
+                            -mayo</p>
+                        -<a>Mas informacion</a>
+                    -</div>
+                -</div>
+            -</div>
+            -<div>
+                -<div>
+                    -<img>
+                    -<div>
+                        -<h5>Torneo de Call Of Duty</h5>
+                        -<p>Demuestra tu valia y tu habilidad en COD entrando al nuevo torneo mundial y
+                            -quedando entre los mejores.</p>
+                        -<a>Mas informacion</a>
+                    -</div>
+                -</div>
+            -</div>
+        -</div>
+    -</div>
+    -<script></script>
+    -<script></script>
+  -</body>
+
+ -</html>

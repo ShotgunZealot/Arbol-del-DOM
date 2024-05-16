@@ -1,0 +1,195 @@
+-<!doctype html>
+ -<html lang="es">
+
+  -<head>
+    -<meta>
+    -<meta>
+    -<title>seis</title>
+    -<link>
+    -<link>
+  -</head>
+
+  -<body>
+    -<nav>
+        -<div>
+            -<a>Titulo</a>
+            -<button>
+                -<span></span>
+            -</button>
+            -<div>
+                -<ul>
+                    -<li>
+                        -<a>Inicio</a>
+                    -</li>
+                    -<li>
+                        -<a>Contacto</a>
+                    -</li>
+                    -<li>
+                        -<a>Acerca de</a>
+                    -</li>
+                    -<li>
+                        -<a>
+                            -Secciones
+                        -</a>
+                        -<ul>
+                            -<li><a>Seccion 1</a></li>
+                            -<li>
+                                -<hr>
+                            -</li>
+                            -<li><a>Seccion 2</a></li>
+                            -<li>
+                                -<hr>
+                            -</li>
+                            -<li>
+                                -<a>Seccion 3</a>
+                            -</li>
+                        -</ul>
+                    -</li>
+                -</ul>
+                -<form>
+                    -<input>
+                    -<button><i></i></button>
+                -</form>
+            -</div>
+        -</div>
+    -</nav>
+    -<div>
+        -<h2>Galería de imágenes</h2>
+        -<div>
+            -<div>
+                -<div>
+                    -<img>
+                -</div>
+            -</div>
+            -<div>
+                -<div>
+                    -<img>
+                -</div>
+            -</div>
+
+            -<div>
+                -<div>
+                    -<img>
+                -</div>
+            -</div>
+        -</div>
+        -<div>
+            -<div>
+                -<div>
+                    -<img>
+                -</div>
+            -</div>
+            -<div>
+                -<div>
+                    -<img>
+                -</div>
+            -</div>
+            -<div>
+                -<div>
+                    -<img>
+                -</div>
+            -</div>
+        -</div>
+    -</div>
+
+    -<div>
+        -<div>
+            -<div>
+                -<div>
+                    -<h1>Primera imagen</h1>
+                -</div>
+                -<div>
+                    -<img>
+                -</div>
+                -<div>
+                    -<button>Close</button>
+                -</div>
+            -</div>
+        -</div>
+    -</div>
+
+    -<div>
+        -<div>
+            -<div>
+                -<div>
+                    -<h1>Segunda imagen</h1>
+                -</div>
+                -<div>
+                    -<img>
+                -</div>
+                -<div>
+                    -<button>Close</button>
+                -</div>
+            -</div>
+        -</div>
+    -</div>
+
+    -<div>
+        -<div>
+            -<div>
+                -<div>
+                    -<h1>Tercera imagen</h1>
+                -</div>
+                -<div>
+                    -<img>
+                -</div>
+                -<div>
+                    -<button>Close</button>
+                -</div>
+            -</div>
+        -</div>
+    -</div>
+
+    -<div>
+        -<div>
+            -<div>
+                -<div>
+                    -<h1>Cuarta imagen</h1>
+                -</div>
+                -<div>
+                    -<img>
+                -</div>
+                -<div>
+                    -<button>Close</button>
+                -</div>
+            -</div>
+        -</div>
+    -</div>
+
+    -<div>
+        -<div>
+            -<div>
+                -<div>
+                    -<h1>Quinta imagen</h1>
+                -</div>
+                -<div>
+                    -<img>
+                -</div>
+                -<div>
+                    -<button>Close</button>
+                -</div>
+            -</div>
+        -</div>
+    -</div>
+
+    -<div>
+        -<div>
+            -<div>
+                -<div>
+                    -<h1>Sexta imagen</h1>
+                -</div>
+                -<div>
+                    -<img>
+                -</div>
+                -<div>
+                    -<button>Close</button>
+                -</div>
+            -</div>
+        -</div>
+    -</div>
+
+    -<script></script>
+    -<script></script>
+  -</body>
+
+ -</html>

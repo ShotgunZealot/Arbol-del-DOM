@@ -1,0 +1,47 @@
+-<!doctype html>
+ -<html lang="es">
+
+  -<head>
+    -<meta>
+    -<meta>
+    -<title>tres</title>
+    -<link>
+    -<link>
+  -</head>
+
+  -<body>
+    -<div>
+        -<section>
+            -<h2>Sección 1</h2>
+            -<p>Esta es la primera sección.</p>
+            -<button>Botón Primario</button>
+        -</section>
+
+        -<hr>
+
+        -<section>
+            -<h2>Sección 2</h2>
+            -<p>Esta es la segunda sección.</p>
+            -<button>Botón Secundario</button>
+        -</section>
+
+        -<hr>
+
+        -<section>
+            -<h2>Sección 3</h2>
+            -<p>Esta es la tercera sección.</p>
+            -<button>Botón de Éxito</button>
+        -</section>
+
+        -<hr>
+
+        -<section>
+            -<h2>Sección 4</h2>
+            -<p>Esta es la tercera sección.</p>
+            -<button>Botón de peligro</button>
+        -</section>
+    -</div>
+    -<script></script>
+  -</body>
+
+ -</html>
